@@ -10,6 +10,7 @@ Possuo certificações em Vue.js, UX/UI Design e Desenvolvimento Web Moderno, e 
 
 
 ### Linguagens e Ferramentas
+<p dir="auto">
 <code>
 <img src="./images/logo-vuejs.png" alt="JavaScript" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px; position: relative; top: 7px;" />
 </code>
@@ -25,3 +26,4 @@ Possuo certificações em Vue.js, UX/UI Design e Desenvolvimento Web Moderno, e 
 <code style="margin-left: 10px">
 <img src="./images/logo-node.png" alt="JavaScript" width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px; margin-left: auto; " />
 </code>
+</p>
