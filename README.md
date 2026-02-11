@@ -12,18 +12,28 @@ Possuo certificações em Vue.js, UX/UI Design e Desenvolvimento Web Moderno, e 
 ### Linguagens e Ferramentas
 <p dir="auto">
 <code>
+<a href="#">
 <img src="./images/logo-vuejs.png" alt="JavaScript" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px; position: relative; top: 7px;" />
+</a>
 </code>
 <code style="margin-left: 10px">
+<a href="#">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="20" height="20" style="max-width: 100%; height: auto; max-height: 20px; " />
+</a>
 </code>
 <code style="margin-left: 10px">
+<a href="#">
 <img src="./images/logo-bootstrap-4.png" alt="JavaScript" width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px;" />
+</a>
 </code>
 <code style="margin-left: 10px">
+<a href="#">
 <img src="./images/logo-sass.png" alt="JavaScript" width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px;" />
+</a>
 </code>
 <code style="margin-left: 10px">
+<a href="#">
 <img src="./images/logo-node.png" alt="JavaScript" width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px; margin-left: auto; " />
+</a>
 </code>
 </p>
