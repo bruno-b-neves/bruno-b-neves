@@ -8,7 +8,14 @@ Atualmente curso Ciência da Computação na Universidade UNIP, fortalecendo min
 
 Possuo certificações em Vue.js, UX/UI Design e Desenvolvimento Web Moderno, e estou em constante evolução técnica.
 
-
+<table>
+	<thead>
+		<tr>
+			<th>### Skills</th>
+		</tr>
+	</thead>
+	<tbody></tbody>
+</table>
 ### Linguagens e Ferramentas
 <p>
 	<code><a href="#"><img src="./images/logo-vuejs.png" alt="Vue.js" width="35" height="35" style="position: relative; top:7" /></a></code>&nbsp;&nbsp;
