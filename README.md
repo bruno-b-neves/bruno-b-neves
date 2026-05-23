@@ -11,7 +11,7 @@ Possuo certificações em Vue.js, UX/UI Design e Desenvolvimento Web Moderno, e 
 <table>
 	<thead>
 		<tr>
-			<th>### Skills</th>
+			<th colspan="12"><h3>Frontend</h3></th>
 		</tr>
 	</thead>
 	<tbody></tbody>
