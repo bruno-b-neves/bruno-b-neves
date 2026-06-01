@@ -54,8 +54,8 @@ Projetos focados nos pilares da Programação Orientada a Objetos utilizando Jav
 ### 📫 Vamos nos conectar?
 Gosto de trocar experiências sobre Vue, Nuxt e os desafios do mundo Front-End!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/bruno-barbosa-neves-1b15621ab)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunobneves95@gmail.com)
 
 ---
 <div align="center">
